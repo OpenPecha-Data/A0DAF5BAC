@@ -1,0 +1,27 @@
+segment_sources:
+  I39C32C30:
+    type: origin_type
+    relation: translation
+    base: 0428
+    lang: en
+  IB4342906:
+    type: origin_type
+    relation: translation
+    base: A7AA
+    lang: bo
+segment_pairs:
+  87d5a3cd2f2a4cc29f9e96c1ca62db52:
+    I39C32C30: 2c01e72505174a90b1a866200f7fae04
+    IB4342906: 16f5054c7277451e8aeff26d82f90b95
+  5a303e9335824d3b806a3caa73d31350:
+    I39C32C30: 15cf0d9f230a4017959dd3bebf38920e
+    IB4342906: bc57ca2ca1294302aeda6d7006ba8f21
+  c896995aa0244ff3bf2862a8cde00522:
+    I39C32C30: 0e72603869314fe19675da071f6bb670
+    IB4342906: 0a5ffbdca280451dab617f5cc79f88db
+  02c2f55bf6cb44f6b7523e74f2589bda:
+    I39C32C30: d5b725f10a294ad18835af48d05a6aec
+    IB4342906: db8ca1bbd9f1485caf4f2aab1fc24354
+  0dc6ca319e0d44a1a54299cee13ab295:
+    I39C32C30: 4e5bfe4f13e44b9d9adfc9c2d710c7bd
+    IB4342906: 290d53d990084d3f80b13b88a513c297
